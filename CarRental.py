@@ -1,6 +1,6 @@
 import datetime   # The datetime module supplies classes for manipulating dates and times.
 
-#---------------------------------The Rental Class---------------------------------#
+#---------------------------------The Rental Class-----------------------------#
 
 class Rental(): # Class to manage the vehicles in the inventory, rentals, and billing. It is instantiated from the main() program each time it starts.
     
